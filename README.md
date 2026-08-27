@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/alan-carvalho-cyber-banner.png" alt="Alan Carvalho — Software Developer" width="100%" />
+  <img src="./alan-carvalho-red-banner-v2.png" alt="Alan Carvalho — Full-Stack Software Developer and Cybersecurity Analyst" width="100%" />
 </div>
 
 <div align="center">
