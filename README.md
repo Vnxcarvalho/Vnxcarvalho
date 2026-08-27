@@ -35,13 +35,14 @@
 
 ```ts
 const alanCarvalho = {
-  role: "Software Developer",
+  role: "Full-Stack Software Developer & Cybersecurity Analyst",
   education: "Análise e Desenvolvimento de Sistemas",
   location: "Curitiba, PR — Brasil",
   interests: [
     "Desenvolvimento web",
     "Interfaces modernas",
     "Soluções escaláveis",
+    "Cybersecurity",
     "Aprendizado contínuo",
   ],
   mindset: "Tecnologia com propósito, código com qualidade.",
@@ -60,45 +61,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** em Curitiba/PR, foca
   <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
   <img src="https://img.shields.io/badge/Linux_Mint-111827?style=for-the-badge&logo=linuxmint&logoColor=87CF3E" alt="Linux Mint" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vnxcarvalho&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=E6EDF3&ring_color=EC4899" alt="Estatísticas do GitHub de Alan Carvalho" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnxcarvalho&layout=donut&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E6EDF3&langs_count=8" alt="Linguagens mais usadas por Alan Carvalho" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Vnxcarvalho&hide_border=true&background=0D1117&stroke=30363D&ring=A855F7&fire=EC4899&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=22D3EE&sideLabels=22D3EE&dates=8B949E" alt="Sequência de contribuições de Alan Carvalho" />
-</div>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vnxcarvalho&bg_color=0D1117&color=E6EDF3&line=A855F7&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" alt="Gráfico de atividade de Alan Carvalho" />
-</div>
-
-> As estatísticas são geradas por serviços externos e refletem apenas os dados públicos disponíveis no GitHub.
-
----
-
-## 🌌 Contributions in 3D
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Visualização 3D das contribuições de Alan Carvalho" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vnxcarvalho/Vnxcarvalho/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vnxcarvalho/Vnxcarvalho/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Vnxcarvalho/Vnxcarvalho/output/github-contribution-grid-snake.svg" alt="Snake animada das contribuições de Alan Carvalho" width="100%" />
-  </picture>
 </div>
 
 ---
