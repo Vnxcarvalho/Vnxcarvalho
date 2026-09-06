@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" />
   </a>
   <a href="mailto:alanviniciuscarvalho@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EC4899" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EC4899" alt="Enviar e-mail para Alan Carvalho" />
   </a>
   <a href="https://carvalho-new-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfólio" />
