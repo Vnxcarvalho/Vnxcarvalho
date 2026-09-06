@@ -26,7 +26,7 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python&theme=dark&perline=8" alt="Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Node.js, Java e Python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,cs,dotnet,postgres&theme=dark&perline=6" alt="Tecnologias: JavaScript, TypeScript, React, C#, .NET e PostgreSQL" />
 </div>
 
 ---
