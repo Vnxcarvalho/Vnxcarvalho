@@ -3,12 +3,6 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Desenvolvedor+de+Software;Transformando+ideias+em+experi%C3%AAncias+digitais;Construindo+solu%C3%A7%C3%B5es+modernas+e+escal%C3%A1veis;Sempre+aprendendo%2C+sempre+evoluindo" alt="Texto animado sobre a atuação de Alan Carvalho" />
-  </a>
-</div>
-
-<div align="center">
   <a href="https://github.com/Vnxcarvalho">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
   </a>
