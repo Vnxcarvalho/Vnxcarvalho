@@ -50,11 +50,11 @@ const alanCarvalho = {
 } as const;
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** em Curitiba/PR, focado em transformar desafios em produtos digitais claros, eficientes e bem construídos. Busco evoluir continuamente, colaborar com times de alta performance e criar soluções que combinem tecnologia, experiência e impacto real.
+Estudante de **Análise e Desenvolvimento de Sistemas** em Curitiba/PR, focado em transformar desafios em produtos digitais claros, eficientes e bem construídos. Busco evoluir continuamente, colaborar com times de alta performance e criar soluções que combinem tecnologia, experiência e impacto real.
 
 ---
 
-## 🧰 Digital Workstation
+##  Digital Workstation
 
 <div align="center">
   <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="Visual Studio Code" />
@@ -64,21 +64,3 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** em Curitiba/PR, foca
 </div>
 
 ---
-
-## 🤝 Vamos construir algo incrível?
-
-Estou aberto a conexões, colaboração em projetos e oportunidades para crescer profissionalmente enquanto entrego soluções de qualidade.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alan-carvalho-/">LinkedIn</a>
-  <span> • </span>
-  <a href="mailto:alanviniciuscarvalho@gmail.com">E-mail</a>
-  <span> • </span>
-  <a href="https://carvalho-new-portfolio.vercel.app/">Portfólio</a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,35:7C3AED,70:DB2777,100:06B6D4" width="100%" alt="Rodapé colorido" />
-</div>
