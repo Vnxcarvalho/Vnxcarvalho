@@ -31,7 +31,7 @@
 
 ---
 
-## 👨‍💻 About me
+##  About me
 
 ```ts
 const alanCarvalho = {
@@ -57,9 +57,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** em Curitiba/PR, focado e
 ##  Digital Workstation
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Rider-111827?style=for-the-badge&logo=rider&logoColor=FF318C" alt="Rider" />
+  <img src="https://img.shields.io/badge/WebStorm-111827?style=for-the-badge&logo=webstorm&logoColor=00CDD7" alt="WebStorm" />
+  <img src="https://img.shields.io/badge/Kali_Linux-111827?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude" />
-  <img src="https://img.shields.io/badge/Linux_Mint-111827?style=for-the-badge&logo=linuxmint&logoColor=87CF3E" alt="Linux Mint" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" />
 </div>
 
