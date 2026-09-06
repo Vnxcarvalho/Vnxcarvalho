@@ -35,10 +35,6 @@
 
 Desenvolvedor de software com foco em C#, .NET, PostgreSQL e React. Estudante de Análise e Desenvolvimento de Sistemas em Curitiba/PR, com interesse em segurança da informação.
 
-Priorizo código claro, soluções bem estruturadas e segurança desde o desenvolvimento.
-
-Estudante de **Análise e Desenvolvimento de Sistemas** em Curitiba/PR, focado em transformar desafios em produtos digitais claros, eficientes e bem construídos. Busco evoluir continuamente, colaborar com times de alta performance e criar soluções que combinem tecnologia, experiência e impacto real.
-
 ---
 
 ##  Digital Workstation
